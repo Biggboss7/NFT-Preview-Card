@@ -24,13 +24,13 @@ appear in the middle of another image when it is clicked.
 
 ### Screenshot
 Here are the screenshot of my NFT Card
-Desktop Preview **Enter**
+Desktop Preview\
 ![desktop-preview](https://user-images.githubusercontent.com/105411073/177940836-95da3a9f-89e0-45fb-bce1-1dea7f470c62.png)
-**Enter**
+\
 
-Mobile Preview **Enter**
+Mobile Preview\
 ![mobile-preview](https://user-images.githubusercontent.com/105411073/177940787-3f735deb-66fd-4fc4-911d-35b170983c43.png)
-**Enter**
+\
 
 ### Links 
 Live Preview :
@@ -39,9 +39,9 @@ Code Preview :
 ## My Process
 At the first time I build this challenge, everything seems find. I can build the HTML and CSS structure really well.
 Problem starts to emerge when this challenge asks me to make a logo to appear in the middle of Card Image. 
-**Enter**
+\
 ![active-states](https://user-images.githubusercontent.com/105411073/177942296-7305fae6-1c02-4061-80ef-f4ea06d45f9c.jpg).
-**Enter**
+\
 
 Here is my solution to tackle this problem.
 1. First, I create an anchor element <a> with the class name "link-image".
