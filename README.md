@@ -38,8 +38,10 @@ Code Preview :
 
 ## My Process
 At the first time I build this challenge, everything seems find. I can build the HTML and CSS structure really well.
-Problem starts to emerge when this challenge asks me to make a logo to appear in the middle of Card Image. **Enter**
-![active-states](https://user-images.githubusercontent.com/105411073/177942296-7305fae6-1c02-4061-80ef-f4ea06d45f9c.jpg).**Enter**
+Problem starts to emerge when this challenge asks me to make a logo to appear in the middle of Card Image. 
+**Enter**
+![active-states](https://user-images.githubusercontent.com/105411073/177942296-7305fae6-1c02-4061-80ef-f4ea06d45f9c.jpg).
+**Enter**
 
 Here is my solution to tackle this problem.
 1. First, I create an anchor element <a> with the class name "link-image".
