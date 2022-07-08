@@ -39,18 +39,18 @@ hr {
   text-decoration: none;
 }
 
-.link-image:active .nft-image {
+.link-image:hover .nft-image {
   opacity: 0.5;
 }
 
-.link-image:active .pop-up {
+.link-image:hover .pop-up {
   display: block;
   position: absolute;
   left: 43%;
   top: 43%;
 }
 
-.link:active {
+.link:hover {
   color: var(--cyan);
 }
 
