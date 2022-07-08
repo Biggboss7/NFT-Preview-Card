@@ -46,14 +46,14 @@ Problem starts to emerge when this challenge asks me to make a logo to appear in
 Here is my solution to tackle this problem.
 1. First, I create an anchor element <a> with the class name "link-image".
 2. Then, I put two images inside of it. The main image which is Equilibrium Image and the eye-logo image with class name "nft-image" and "pop-up" respectively.
-**Enter**
+\
 ![solution1](https://user-images.githubusercontent.com/105411073/177944695-06aae4dc-f6a2-4a00-9e18-99b167095d66.png)
-**Enter**
+\
 3. During the normal state (without :active element), "pop-up" class's display is none
 4. After the parent element (<a> with class name "link-image") is clicked, then "pop-up" class appear and "nft-image" class's opacity then I put 0.5
-**Enter**
+\
 ![solution2](https://user-images.githubusercontent.com/105411073/177945423-62d620d3-789d-4616-8225-33015e264f7a.png)
-**Enter**
+\
 
 ### What I Learnt
 1. How to root color in my css code to ease my way to build this challenge
